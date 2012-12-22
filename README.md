@@ -14,4 +14,3 @@ To train the classifier, run the following command from the src directory:
 
 To generate the predictions file, which will be output in ./etc/, run the following command from the src directory:
 	* python predict.py
-
