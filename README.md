@@ -2,6 +2,7 @@ BestBuy-Kaggle-Competiton
 =========================
 
 BestBuy Kaggle Small Data Contest Attempt Using One-Versus-One Multiclass Classification 
+Kaggle Competiton: http://www.kaggle.com/c/acm-sf-chapter-hackathon-small
 
 Dependencies:
 	* bs4
