@@ -4,6 +4,7 @@ BestBuy-Kaggle-Competiton
 BestBuy Kaggle Small Data Contest Attempt Using One-Versus-One Multiclass Classification 
 
 Dependencies:
+	* bs4
 	* numpy
 	* scipy
 	* sklearn
